@@ -1,0 +1,117 @@
+#HEADING{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 60px;
+    font-size:65px;
+    color: #c7d3d0;
+    letter-spacing: 8px;
+}
+
+.nums{
+  
+   background-size:70px;
+ background-color: #283a36;
+   color: #000505; 
+    width: 80px;
+    padding: 30px;
+      cursor: pointer;
+      border-radius: 100%;
+      border-width:2px;
+
+}
+
+#view{
+    width:400px;
+     padding:10px;
+     border-radius:30px;
+     background-color: #295149;
+     border-width: 4px;
+     font-size: 70px;
+     font-family: 'Courier New', Courier, monospace;
+     font-weight: bold;
+
+    /* background-image: url("./images/symbol_r2_c5.png");
+     background-size:100px 95px;
+     background-repeat: no-repeat;*/
+     
+}
+
+.nums:hover{
+background-color: #7c8074;
+}
+
+
+
+#num7{
+     background-image:url("./images/symbol_r2_c2.png");
+     
+}
+#num8{
+     background-image:url("./images/symbol_r2_c3.png");
+}
+#num9{
+     background-image:url("./images/symbol_r2_c4.png");
+}
+#divi{
+     background-image:url("./images/symbol_r4_c6.png");
+}
+#num4{
+     background-image:url("./images/symbol_r1_c4.png");
+}
+#num5{
+     background-image:url("./images/symbol_r1_c5.png");
+}
+#num6{
+     background-image:url("./images/symbol_r2_c1.png");
+}
+#multi{
+     background-image:url("./images/symbol_r3_c6.png");
+}
+#num1{
+     background-image:url("./images/symbol_r1_c1.png");
+}
+#num2{
+     background-image:url("./images/symbol_r1_c2.png");
+}
+#num3{
+     background-image:url("./images/symbol_r1_c3.png");
+}
+#subt{
+     background-image:url("./images/symbol_r3_c4.png");
+}
+#dot{
+     background-image:url("./images/symbol_r1_c6.png");
+     background-size: 100px;
+}
+#num0{
+     background-image:url("./images/symbol_r2_c5.png"); 
+}
+#add{
+     background-image:url("./images/symbol_r3_c5.png");
+}
+#equal{
+     background-image:url("./images/symbol_r3_c3.png");
+}
+#ANCTAG1{
+     font-size: 30px;
+     margin-left: 350px;
+     margin-top:20px;
+     color:aliceblue;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tablea{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+    margin-bottom: auto;
+    border-spacing: 10px;
+  /* border-left: 1px solid #ecf0f0;
+    border-right: 1px solid #ecf0f0; */
+}
+
+.bodya{
+    background-image: url("./images/—Pngtree—fresh\ chalkboard\ stationery\ ad\ background_970707.jpg");
+    background-repeat: no-repeat;
+    background-size:1540px 750px;
+}

@@ -1,0 +1,70 @@
+#HEADING{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 60px;
+    font-size:75px;
+    color: #005f47;
+    letter-spacing: 8px;
+}
+
+.nums{
+  
+   background-size:78px;
+ background-color: #283a36;
+ background-image: url("./images2/woodbutton.png");
+   color: #000505; 
+    width: 80px;
+    padding: 15px;
+      cursor: pointer;
+      border-radius: 100%;
+      font-size: 40px;
+      color: #ffffff;
+      font-weight: bold;
+}
+
+#view{
+    width:400px;
+     padding:10px;
+     border-radius:30px;
+     background-color: #965d02;
+     border-width: 4px;
+     font-size: 70px;
+     font-family: 'Courier New', Courier, monospace;
+     font-weight: bold;
+
+     background-image: url("./images2/viewwoodpng.png");
+     background-size:390px 120px;
+     background-repeat: no-repeat;
+     
+}
+
+.nums:hover{
+background-color: #7c8074;
+color: #0d0d0d;
+}
+
+
+
+
+.tablea{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+    margin-bottom: auto;
+    border-spacing: 10px;
+  /* border-left: 1px solid #ecf0f0;
+    border-right: 1px solid #ecf0f0; */
+}
+
+.bodya{
+    background-image: url("./images2/bg.jpg");
+    background-repeat: no-repeat;
+    background-size:1540px 750px;
+}
+#ANCTAG2{
+     font-size: 30px;
+     margin-left: 350px;
+     margin-top:20px;
+     color:aliceblue;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
